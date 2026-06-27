@@ -1,10 +1,10 @@
 # GTNH Items Color Sorter and Searcher
-
 A tool I made to sort items by color in minecraft gtnh.
 
+## Preview
+![SC1](https://github.com/antonguay3/gtnh-sorter/blob/0c0ab1a6cd8e74cc0247f24094358c1ce98b5cd9/Screenshot1.png)
 
 ## How to Use
-
 Download and extract zip
 
 ### Get item icons from minecraft
