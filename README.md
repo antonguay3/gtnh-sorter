@@ -5,6 +5,8 @@ A tool I made to sort items by color in minecraft gtnh.
 
 ## How to Use
 
+Download and extract zip
+
 ### Get item icons from minecraft
 1. In a minecraft world, open your inventory and NEI/JEI/REI overlay.
 2. Toggle "Collapse/Expand All Collapsible Items" to expand all items.
