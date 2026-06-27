@@ -1,0 +1,18 @@
+# Ignorare venv
+core/.venv/
+__pycache__/
+*.pyc
+
+# Ignore inputs
+sort_items/*
+search_item/*
+
+# Ignore outputs
+output_images/*.png
+
+# Keep empty input folders
+!sort_items/.gitkeep
+!search_item/.gitkeep
+
+# Ignore config
+core/config.json
